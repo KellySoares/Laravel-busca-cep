@@ -1,7 +1,7 @@
 # Cadastro de Endereço utilizando busca de CEP.
 
 
-É uma interface simples para cadastro de endereços utilizando busca de CEP's e endereços. Esse trabalho foi desenvolvido utlizando os conhecimentos adiquiridos ao longo do projeto "Construindo uma aplicação MVC com Laravel 7 para consulta de CEP" da Digital Innovation One.
+É uma aplicação simples MVC utilizando o framework PHP Laravel, para cadastro de endereços utilizando busca de CEP's e endereços. Esse trabalho foi desenvolvido utlizando os conhecimentos adiquiridos ao longo do projeto "Construindo uma aplicação MVC com Laravel 7 para consulta de CEP" da Digital Innovation One. Em que é consumido a API da VIACEP para bucar o CEP ou endereço e salvá-lo em banco.
 
 
 ✨ Tecnologias utilizadas
